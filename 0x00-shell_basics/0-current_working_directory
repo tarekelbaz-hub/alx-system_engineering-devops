@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "This is my current directory $PWD" >> /tmp/correction/2806160422397876145098306142576791065401_5/205/517900/0x00-shell_basics
+echo "This is my current directory $PWD" >> /root/alx-system_engineering-devops/0x00-shell_basics
